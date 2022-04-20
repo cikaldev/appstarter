@@ -1,0 +1,23 @@
+{
+  "name": "cikaldev/appstarter",
+  "description": "Starter Codeigniter 3 HMVC for boost your development time.",
+  "keywords": ["codeigniter","starter","boilerplate"],
+  "homepage": "https://github.com/cikaldev/appstarter",
+  "type": "project",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Ian Cikal",
+      "email": "cikaldev@gmail.com",
+      "homepage": "https://github.com/cikaldev"
+    }
+  ],
+  "require": {
+    "php": ">=5.6"
+  },
+  "support": {
+    "forum": "https://t.me/codeigniterindonesia",
+    "source": "https://github.com/cikaldev/appstarter",
+    "issues": "https://github.com/cikaldev/appstarter/issues"
+  }
+}
