@@ -1,13 +1,13 @@
 # appstarter
 Starter Codeigniter 3 for boost your development time.
 
-[![License](https://img.shields.io/github/license/cikaldev/appstarter-hmvc)](https://img.shields.io/github/license/cikaldev/appstarter-hmvc)
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/cikaldev/appstarter-hmvc)](https://github.com/cikaldev/appstarter-hmvc/releases)
+[![License](https://img.shields.io/github/license/cikaldev/appstarter-hmvc)](https://img.shields.io/github/license/cikaldev/appstarter)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/cikaldev/appstarter-hmvc)](https://github.com/cikaldev/appstarter/releases)
 
 ## Installation
 
 ### Using Release file
-* Download the [latest release](https://github.com/cikaldev/appstarter-hmvc/releases/latest).
+* Download the [latest release](https://github.com/cikaldev/appstarter/releases/latest).
 * Just extract it into your (dev) server.
 * Done.
 
