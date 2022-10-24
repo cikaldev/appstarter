@@ -1,0 +1,14 @@
+RewriteEngine On
+# -------------------------------------------
+# Feel free to un-comment this 2 line (6-7),
+# if you want to force redirect HTTPS.
+# -------------------------------------------
+# RewriteCond %{HTTPS} off
+# RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+# -------------------------------------------
+# Remove (index.php) from url
+# -------------------------------------------
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ index.php/$1 [L]
